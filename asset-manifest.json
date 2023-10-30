@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tugas/static/css/main.14254c0b.css",
+    "main.css": "/tugas/static/css/main.068915b1.css",
     "main.js": "/tugas/static/js/main.110e1043.js",
     "index.html": "/tugas/index.html",
-    "main.14254c0b.css.map": "/tugas/static/css/main.14254c0b.css.map",
+    "main.068915b1.css.map": "/tugas/static/css/main.068915b1.css.map",
     "main.110e1043.js.map": "/tugas/static/js/main.110e1043.js.map"
   },
   "entrypoints": [
-    "static/css/main.14254c0b.css",
+    "static/css/main.068915b1.css",
     "static/js/main.110e1043.js"
   ]
 }
